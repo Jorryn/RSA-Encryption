@@ -13,7 +13,7 @@
 #include <queue>
 #include <vector>
 #include <chrono>
-#include "circular_buffer.hpp"
+#include "encryption.hpp"
 
 using namespace std;
 #define RANGE 256
